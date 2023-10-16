@@ -1,0 +1,12 @@
+Program ini untuk mengkonversi mata uang dari USD ke IDR.
+Hanya bisa dijalankan di windows.
+Tanpa menggunakan file config karena akan diconfig saat program berjalan.
+
+Cara config:
+1. Siapkan file input dan masukkan ke folder yang sama dengan converter.exe
+2. Buka converter.exe
+3. "Enter exchange rates USD to IDR:" --> input harga 1 USD ke IDR tanpa koma atau titik, contoh: 15000
+4. "Enter input file:" --> input nama filenya dengan atau tanpa extensionnya contoh 
+                            "INPUT - gaji pokok USD.xlsx" atau "INPUT - gaji pokok USD"
+5. "Enter output file:" --> input nama filenya dengan atau tanpa extensionnya contoh 
+                            "OUTPUT - upload gaji pokok oktober 2023" atau "OUTPUT - upload gaji pokok oktober 2023"
